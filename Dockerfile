@@ -6,4 +6,4 @@ WORKDIR /app
 
 RUN touch f1 f2 f3
 
-CMD ["echo" "hello"]
+CMD ["echo", "hello"]
